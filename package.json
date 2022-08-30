@@ -1,0 +1,26 @@
+{
+  "name": "meenix-bot",
+  "version": "1.0.0",
+  "description": "Discord multipurpose bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LynxTheCode/Meenix-Bot.git"
+  },
+  "author": "LynxTheCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LynxTheCode/Meenix-Bot/issues"
+  },
+  "homepage": "https://github.com/LynxTheCode/Meenix-Bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord.js": "^14.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
